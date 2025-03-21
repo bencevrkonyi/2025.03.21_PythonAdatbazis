@@ -1,0 +1,1 @@
+print"szevasz cigány"
